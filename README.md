@@ -70,5 +70,5 @@ python classifer.py --d traclets --f 5
 
 ### References
 
-[1](https://ieeexplore.ieee.org/abstract/document/9474859). I. Kontopoulos, A. Makris, D. Zissis, K. Tserpes, "A computer vision approach for trajectory classification", 22nd IEEE International Conference on Mobile Data Management (MDM), 2021.
-[2](https://www.mdpi.com/2220-9964/10/4/250). I. Kontopoulos, A. Makris, K. Tserpes, "A Deep Learning Streaming Methodology for Trajectory Classification", ISPRS International Journal of Geo-Information, Volume 10, Issue 4, 2021.
+\[[1]\](https://ieeexplore.ieee.org/abstract/document/9474859). I. Kontopoulos, A. Makris, D. Zissis, K. Tserpes, "A computer vision approach for trajectory classification", 22nd IEEE International Conference on Mobile Data Management (MDM), 2021.  
+\[[2]\](https://www.mdpi.com/2220-9964/10/4/250). I. Kontopoulos, A. Makris, K. Tserpes, "A Deep Learning Streaming Methodology for Trajectory Classification", ISPRS International Journal of Geo-Information, Volume 10, Issue 4, 2021.
